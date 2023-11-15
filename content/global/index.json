@@ -2,23 +2,23 @@
   "header": {
     "icon": {
       "name": "Tina",
-      "color": "orange",
+      "color": "yellow",
       "style": "float"
     },
     "name": "Tina Starter",
-    "color": "default",
+    "color": "",
     "nav": [
       {
         "href": "",
         "label": "Home"
       },
       {
-        "href": "about",
-        "label": "About"
-      },
-      {
         "href": "posts",
         "label": "Blog"
+      },
+      {
+        "href": "about",
+        "label": "About"
       }
     ]
   },
@@ -31,7 +31,7 @@
     }
   },
   "theme": {
-    "color": "blue",
+    "color": "red",
     "font": "sans",
     "darkMode": "system"
   }
