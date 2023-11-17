@@ -35,6 +35,7 @@ export const authOptions = {
           }
         }
       } catch (e) {
+        console.log('What a fuck')
         console.error(e)
       }
       return null
