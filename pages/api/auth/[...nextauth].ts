@@ -29,13 +29,15 @@ export const authOptions = {
           if (user) {
             const match = await bcrypt.compare(credentials.password, user[0].password)
             if (!match) {
+              console.log('Not match in [...nextauth]')
               return null
             }
+            console.log('Return user in [...nextauth]')
             return user[0]
           }
         }
       } catch (e) {
-        console.log('What a fuck')
+        console.log('Error catch in [...nextauth]')
         console.error(e)
       }
       return null
