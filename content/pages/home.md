@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter
+title: Tina Cloud Starteris
 blocks:
   - headline: Welcome to TINA STARTER by D
     text: >
@@ -56,6 +56,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
