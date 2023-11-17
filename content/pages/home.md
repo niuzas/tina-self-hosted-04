@@ -1,7 +1,7 @@
 ---
 title: Tina Cloud Starteris
 blocks:
-  - headline: Welcome to TINA STARTER by D
+  - headline: Welcome to TINA STARTER by DR
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
